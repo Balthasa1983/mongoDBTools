@@ -1,4 +1,4 @@
-import pprint, re
+import re
 from pymongo import MongoClient
 
 
